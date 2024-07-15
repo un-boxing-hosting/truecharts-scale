@@ -1,3 +1,7 @@
+
+/catalog_validation
+/scale-catalog-template
+/scale-catalog
 *.pyc
 *.swp
 *.mo
